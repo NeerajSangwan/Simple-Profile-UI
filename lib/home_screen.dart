@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(context) {
-    return MaterialApp(
+    return const MaterialApp(
       home: Scaffold(
         body: Stack(
           children: [
